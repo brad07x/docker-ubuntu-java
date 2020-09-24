@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build -t sismics/ubuntu-java:8.191 .
+docker build -t sismics/ubuntu-java:11.0.8 .
